@@ -3,7 +3,7 @@ layout: post
 title: ios开发路线图
 description: "ios development roadmap"
 date: 2013-11-11
-modified: 2013-11-11
+modified: 2013-11-12
 category: mobile
 tags: [ios]
 image:
@@ -359,8 +359,8 @@ Localizable.string
 
 ### 进阶
 
-[iOS 技术概述](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898) 介绍可在 iOS 应用程序中使用的框架和其他技术。
-[iOS 用户界面指南](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556) 教您如何让您的应用程序符合 iOS 用户界面规范。
-[应用程序分发指南](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012582) 逐步完成这些过程：开发应用程序，预备测试设备，提交应用程序到 App Store。
-[使用 Objective-C 编程](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210) 描述如何使用 Objective-C 程序设计语言定义类、发送消息、封装数据，以及完成各种其他任务。
-[iOS 应用程序编程指南](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)讲解在开发 iOS 应用程序时，您必须要了解并做到的基本事情。
+- [iOS 技术概述](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898) 介绍可在 iOS 应用程序中使用的框架和其他技术。
+- [iOS 用户界面指南](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556) 教您如何让您的应用程序符合 iOS 用户界面规范。
+- [应用程序分发指南](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012582) 逐步完成这些过程：开发应用程序，预备测试设备，提交应用程序到 App Store。
+- [使用 Objective-C 编程](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210) 描述如何使用 Objective-C 程序设计语言定义类、发送消息、封装数据，以及完成各种其他任务。
+- [iOS 应用程序编程指南](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)讲解在开发 iOS 应用程序时，您必须要了解并做到的基本事情。
